@@ -1,8 +1,8 @@
 # Synapse – Ассистент для поддержки сотрудников и клиентов компании
 
-**Команда:** [Synapse]
+**Команда:** Synapse
 
-**МИРО-доска:** https://miro.com/app/board/uXjVGfz9kvI=/
+**Miro-доска:** https://miro.com/app/board/uXjVGfz9kvI=/
 
 ---
 
