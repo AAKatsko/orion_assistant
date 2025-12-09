@@ -1,0 +1,12 @@
+requests==2.31.0
+pdfplumber>=0.7.5
+chromadb>=0.4.0
+regex
+python-magic>=0.4.27
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+pypdf
+sentence-transformers

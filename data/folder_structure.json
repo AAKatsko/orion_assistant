@@ -1,0 +1,16 @@
+{
+  "total_pdfs": 264,
+  "total_folders": 9,
+  "folders": {
+    "zvirt-dc-manager": 6,
+    "zvirt-containers": 12,
+    "nova": 44,
+    "cloudlink": 13,
+    "zvirt-metrics": 4,
+    "nova-se": 48,
+    "starvault": 47,
+    "termit": 42,
+    "zvirt": 48
+  },
+  "data_path": "data/raw"
+}
